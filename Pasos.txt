@@ -1,1 +1,2 @@
-1. abrir el Ejecutar y poner -->  optionalfeatures
+1. abrir Ejecutar y poner -->  optionalfeatures
+2. 

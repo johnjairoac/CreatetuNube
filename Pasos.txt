@@ -1,2 +1,6 @@
-1. abrir Ejecutar y poner -->  optionalfeatures
-2. 
+1. Abrir ejecutar y poner -->  optionalfeatures
+2. Se despliega una ventana "caracteristicas de windows" con la opción de instalar (Internet information Services) se debe 
+   marcar esto para que instale en windows este nuevo paquete.
+3. Debemos abrir Administrador de internet information Services (IIS)
+4. en la columna de conexiones encontraremos nombre del equipo donde se esta trabajando y abajo una carpeta con el nombre
+   de sitios la selecionamos y esocogemos la opcon 
